@@ -1,0 +1,1 @@
+v5.3为带bootloader的可OTA版本，PVT时的版本

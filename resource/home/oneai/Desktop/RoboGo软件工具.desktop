@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=RoboGo软件工具
+Comment=RoboGo软件工具
+Exec=/usr/bin/RoboGoTool
+Icon=/usr/local/UBTTools/images/RoboGo.png
+Type=Application
+Categories=Education;XProgramming;
+Encoding=UTF-8
+StartupNotify=true
+
+

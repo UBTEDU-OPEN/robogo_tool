@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/default.qss</file>
+        <file>images/btn_navigation_blue.png</file>
+        <file>images/ic_play.png</file>
+        <file>images/ic_stop.png</file>
+        <file>images/ic_voice.png</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>images/btn_navigation_blue.png</file>
+        <file>images/ic_last.png</file>
+        <file>images/ic_next.png</file>
+        <file>images/ic_play.png</file>
+        <file>images/ic_Popup_close.png</file>
+        <file>images/ic_screen.png</file>
+        <file>images/ic_stop.png</file>
+        <file>images/ic_voice.png</file>
+        <file>images/img_magnetic_guide05.png</file>
+        <file>images/play.png</file>
+        <file>images/img_magnetic_guide01.png</file>
+        <file>images/robogo_icon.png</file>
+        <file>images/img_magnetic_guide05_en.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package InferContact;
+
+service InferContactGrpc{
+    rpc cmd_node(data) returns (data) { };
+    rpc ai_init(data) returns (data) { };
+    rpc unload(data) returns (data) { };
+}
+
+message data{
+    bytes buf = 1;
+}

@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/default.qss</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>images/btn_navigation_blue.png</file>
+        <file>images/compass_bg.png</file>
+        <file>images/compass_needle.png</file>
+        <file>images/ic_default_option.png</file>
+        <file>images/ic_highlighted.png</file>
+        <file>images/ic_last.png</file>
+        <file>images/ic_logo.png</file>
+        <file>images/ic_navigation_shut.png</file>
+        <file>images/ic_navigation_small.png</file>
+        <file>images/ic_next.png</file>
+        <file>images/ic_play.png</file>
+        <file>images/ic_Popup_close.png</file>
+        <file>images/ic_screen.png</file>
+        <file>images/ic_stop.png</file>
+        <file>images/ic_voice.png</file>
+        <file>images/bg_ucar.png</file>
+        <file>images/img_accel_calibration.png</file>
+        <file>images/img_magnetic_guide01.png</file>
+        <file>images/img_magnetic_guide05.png</file>
+        <file>images/img_sensor.png</file>
+        <file>images/img_ucar02.png</file>
+        <file>images/img_ucar03.png</file>
+        <file>images/play.png</file>
+        <file>images/ic_back.png</file>
+        <file>images/robogo_icon.png</file>
+        <file>images/handler.png</file>
+        <file>images/img_perspective01.png</file>
+        <file>images/img_perspective02.png</file>
+        <file>images/ic_version.png</file>
+        <file>images/ic_version_import.png</file>
+        <file>images/ic_error.png</file>
+        <file>images/ic_hint.png</file>
+        <file>images/ic_error_blue.png</file>
+        <file>images/img_perspective03.png</file>
+        <file>images/ic_calibration_left.png</file>
+        <file>images/ic_calibration_para.png</file>
+        <file>images/ic_calibration_right.png</file>
+        <file>images/ic_left.png</file>
+        <file>images/ic_loading.png</file>
+        <file>images/ic_para.png</file>
+        <file>images/ic_right.png</file>
+        <file>images/ic_error_sign.png</file>
+        <file>images/ic_wheel_reduce_p.png</file>
+        <file>images/ic_wheel_reduce.png</file>
+        <file>images/ic_wheel_add_p.png</file>
+        <file>images/ic_wheel_add.png</file>
+        <file>images/ic_tips.png</file>
+    </qresource>
+</RCC>
